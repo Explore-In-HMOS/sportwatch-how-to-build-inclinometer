@@ -1,0 +1,3 @@
+<div class="container">
+    <canvas id="dialCanvas" class="dial" ref="dialCanvas"></canvas>
+</div>
